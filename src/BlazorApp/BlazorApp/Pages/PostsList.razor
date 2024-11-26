@@ -1,0 +1,31 @@
+﻿@page "/posts-list"
+@using Microsoft.EntityFrameworkCore;
+@using BlazorApp.Models;
+@inject FamilyLifeContext context
+
+<h3>Посты</h3>
+@foreach (var post in posts)
+{
+    <div class = "card" style="width: 40rem;">
+        <div class = "card-header">
+            @post.Header
+        </div>
+        <div class = "card-subtitle">
+            Создатель: @post.Creator.Username
+        </div>
+        <div class = "card-subtitle">
+            @post.PostContent
+        </div>
+    </div>
+    <hr/>
+}
+
+@code {
+    private List<Post> posts = new List<Post>();
+    private List<User> users = new List<User>();
+    protected override async Task OnInitializedAsync()
+    {
+        posts = await context.Posts.ToListAsync();
+        users = await context.Users.ToListAsync();
+    }
+}

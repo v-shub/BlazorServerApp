@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F/1x+gc6e6xGmFsHPl7kFQdf8WOpGTcOC1sx0B4dZMA=",
+  "Hash": "rz7B9UAntUROyPh5Jp9w35OB5Mq38TOSnwRfiKNskac=",
   "Source": "BlazorApp",
   "BasePath": "_content/BlazorApp",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "7jhpc9sw68",
-      "Integrity": "/com0j1o4Rb95oTrcj7oxvzxLeev/E7/e1MAk0dJu50=",
+      "Fingerprint": "0q33py4qzp",
+      "Integrity": "mHZCSgVWQztUokqABzSiTtj8zOUCsIDhlwYf45Pqcvs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "7jhpc9sw68",
-      "Integrity": "/com0j1o4Rb95oTrcj7oxvzxLeev/E7/e1MAk0dJu50=",
+      "Fingerprint": "0q33py4qzp",
+      "Integrity": "mHZCSgVWQztUokqABzSiTtj8zOUCsIDhlwYf45Pqcvs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css"
@@ -334,7 +334,7 @@
   ],
   "Endpoints": [
     {
-      "Route": "BlazorApp.7jhpc9sw68.bundle.scp.css",
+      "Route": "BlazorApp.0q33py4qzp.bundle.scp.css",
       "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -352,11 +352,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/com0j1o4Rb95oTrcj7oxvzxLeev/E7/e1MAk0dJu50=\""
+          "Value": "\"mHZCSgVWQztUokqABzSiTtj8zOUCsIDhlwYf45Pqcvs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 10:54:21 GMT"
+          "Value": "Tue, 26 Nov 2024 11:45:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -366,7 +366,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7jhpc9sw68"
+          "Value": "0q33py4qzp"
         },
         {
           "Name": "label",
@@ -374,12 +374,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/com0j1o4Rb95oTrcj7oxvzxLeev/E7/e1MAk0dJu50="
+          "Value": "sha256-mHZCSgVWQztUokqABzSiTtj8zOUCsIDhlwYf45Pqcvs="
         }
       ]
     },
     {
-      "Route": "BlazorApp.7jhpc9sw68.styles.css",
+      "Route": "BlazorApp.0q33py4qzp.styles.css",
       "AssetFile": "C:\\Users\\victo\\OneDrive\\Рабочий стол\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -397,11 +397,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/com0j1o4Rb95oTrcj7oxvzxLeev/E7/e1MAk0dJu50=\""
+          "Value": "\"mHZCSgVWQztUokqABzSiTtj8zOUCsIDhlwYf45Pqcvs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 10:54:21 GMT"
+          "Value": "Tue, 26 Nov 2024 11:45:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -411,7 +411,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7jhpc9sw68"
+          "Value": "0q33py4qzp"
         },
         {
           "Name": "label",
@@ -419,7 +419,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/com0j1o4Rb95oTrcj7oxvzxLeev/E7/e1MAk0dJu50="
+          "Value": "sha256-mHZCSgVWQztUokqABzSiTtj8zOUCsIDhlwYf45Pqcvs="
         }
       ]
     },
@@ -442,11 +442,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/com0j1o4Rb95oTrcj7oxvzxLeev/E7/e1MAk0dJu50=\""
+          "Value": "\"mHZCSgVWQztUokqABzSiTtj8zOUCsIDhlwYf45Pqcvs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 10:54:21 GMT"
+          "Value": "Tue, 26 Nov 2024 11:45:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -456,7 +456,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/com0j1o4Rb95oTrcj7oxvzxLeev/E7/e1MAk0dJu50="
+          "Value": "sha256-mHZCSgVWQztUokqABzSiTtj8zOUCsIDhlwYf45Pqcvs="
         }
       ]
     },
@@ -479,11 +479,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/com0j1o4Rb95oTrcj7oxvzxLeev/E7/e1MAk0dJu50=\""
+          "Value": "\"mHZCSgVWQztUokqABzSiTtj8zOUCsIDhlwYf45Pqcvs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Nov 2024 10:54:21 GMT"
+          "Value": "Tue, 26 Nov 2024 11:45:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -493,7 +493,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/com0j1o4Rb95oTrcj7oxvzxLeev/E7/e1MAk0dJu50="
+          "Value": "sha256-mHZCSgVWQztUokqABzSiTtj8zOUCsIDhlwYf45Pqcvs="
         }
       ]
     },
