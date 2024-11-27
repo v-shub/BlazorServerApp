@@ -91,3 +91,4 @@ C:\Users\victo\OneDrive\Рабочий стол\Pract\BlazorServerApp\src\Blazor
 C:\Users\victo\OneDrive\Рабочий стол\Pract\BlazorServerApp\src\BlazorApp\BlazorApp\obj\Debug\net6.0\BlazorApp.pdb
 C:\Users\victo\OneDrive\Рабочий стол\Pract\BlazorServerApp\src\BlazorApp\BlazorApp\obj\Debug\net6.0\BlazorApp.genruntimeconfig.cache
 C:\Users\victo\OneDrive\Рабочий стол\Pract\BlazorServerApp\src\BlazorApp\BlazorApp\obj\Debug\net6.0\ref\BlazorApp.dll
+C:\Users\victo\OneDrive\Рабочий стол\Pract\BlazorServerApp\src\BlazorApp\BlazorApp\obj\Debug\net6.0\BlazorApp.sourcelink.json

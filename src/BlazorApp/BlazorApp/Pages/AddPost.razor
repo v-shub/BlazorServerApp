@@ -4,13 +4,13 @@
 @inject FamilyLifeContext context
 
 <h2>Создание нового поста</h2>
-<h3>Название</h3>
+<h3>Заголовок</h3>
 <form>
 	<input @bind-value="header">
 </form>
 <h3>Содержание</h3>
 <form>
-	<input type="text" @bind-value="content">
+	<textarea @bind="content"></textarea>
 </form>
 <button @onclick="Add">
 	Добавить пост
@@ -28,6 +28,8 @@
 		post.Creator = context.Users.First();
 		context.Posts.Add(post);
 		context.SaveChanges();
+		header = null;
+		content = "";
 	}
 }
 
