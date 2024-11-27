@@ -3,7 +3,7 @@
 @using BlazorApp.Models;
 @inject FamilyLifeContext context
 
-<h3>Посты</h3>
+<h2>Посты</h2>
 @foreach (var post in posts)
 {
     <div class = "card" style="width: 40rem;">
@@ -13,7 +13,7 @@
         <div class = "card-subtitle">
             Создатель: @post.Creator.Username
         </div>
-        <div class = "card-subtitle">
+        <div class = "card-body">
             @post.PostContent
         </div>
     </div>

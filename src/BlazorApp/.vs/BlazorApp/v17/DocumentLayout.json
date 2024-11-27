@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\blazorserverapp\\src\\blazorapp\\blazorapp\\pages\\addpost.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\pages\\addpost.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\blazorserverapp\\src\\blazorapp\\blazorapp\\models\\familylifecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\models\\familylifecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\blazorserverapp\\src\\blazorapp\\blazorapp\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\blazorserverapp\\src\\blazorapp\\blazorapp\\pages\\postslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\pages\\postslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\blazorserverapp\\src\\blazorapp\\blazorapp\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\blazorserverapp\\src\\blazorapp\\blazorapp\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\blazorserverapp\\src\\blazorapp\\blazorapp\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\blazorserverapp\\src\\blazorapp\\blazorapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\blazorserverapp\\src\\blazorapp\\blazorapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\blazorserverapp\\src\\blazorapp\\blazorapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{74851E38-A650-4157-B5B0-974972CAA2B5}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,81 +54,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Shared\\MainLayout.razor",
-              "RelativeDocumentMoniker": "BlazorApp\\Shared\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Shared\\MainLayout.razor",
-              "RelativeToolTip": "BlazorApp\\Shared\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T12:29:22.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\_Imports.razor",
-              "RelativeDocumentMoniker": "BlazorApp\\_Imports.razor",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\_Imports.razor",
-              "RelativeToolTip": "BlazorApp\\_Imports.razor",
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorApp\\Pages\\Counter.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T12:29:19.617Z",
+              "WhenOpened": "2024-11-27T08:41:37.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\App.razor",
-              "RelativeDocumentMoniker": "BlazorApp\\App.razor",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\App.razor",
-              "RelativeToolTip": "BlazorApp\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T12:29:15.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Shared\\NavMenu.razor",
-              "RelativeDocumentMoniker": "BlazorApp\\Shared\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Shared\\NavMenu.razor",
-              "RelativeToolTip": "BlazorApp\\Shared\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T11:47:14.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainLayout.razor.css",
-              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Shared\\MainLayout.razor.css",
-              "RelativeDocumentMoniker": "BlazorApp\\Shared\\MainLayout.razor.css",
-              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Shared\\MainLayout.razor.css",
-              "RelativeToolTip": "BlazorApp\\Shared\\MainLayout.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-26T11:47:10.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PostsList.razor",
               "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Pages\\PostsList.razor",
               "RelativeDocumentMoniker": "BlazorApp\\Pages\\PostsList.razor",
               "ToolTip": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Pages\\PostsList.razor",
               "RelativeToolTip": "BlazorApp\\Pages\\PostsList.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T11:24:22.026Z",
+              "WhenOpened": "2024-11-27T08:10:59.97Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FamilyLifeContext.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Models\\FamilyLifeContext.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\Models\\FamilyLifeContext.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Models\\FamilyLifeContext.cs",
+              "RelativeToolTip": "BlazorApp\\Models\\FamilyLifeContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:57:48.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Models\\Post.cs",
+              "RelativeToolTip": "BlazorApp\\Models\\Post.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:12:23.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddPost.razor",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Pages\\AddPost.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Pages\\AddPost.razor",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Pages\\AddPost.razor",
+              "RelativeToolTip": "BlazorApp\\Pages\\AddPost.razor",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvx0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T12:48:37.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\BlazorServerApp\\src\\BlazorApp\\BlazorApp\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "BlazorApp\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T11:47:14.396Z"
             }
           ]
         }

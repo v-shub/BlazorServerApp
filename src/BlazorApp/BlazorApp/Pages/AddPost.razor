@@ -1,0 +1,33 @@
+﻿@page "/add-post"
+@using Microsoft.EntityFrameworkCore;
+@using BlazorApp.Models;
+@inject FamilyLifeContext context
+
+<h2>Создание нового поста</h2>
+<h3>Название</h3>
+<form>
+	<input @bind-value="header">
+</form>
+<h3>Содержание</h3>
+<form>
+	<input type="text" @bind-value="content">
+</form>
+<button @onclick="Add">
+	Добавить пост
+</button>
+
+@code {
+	string content = "";
+	string header;
+	Post post = new Post();
+	private void Add()
+	{
+		post.Header = header;
+		post.PostContent = content;
+		post.CreatedAt = DateTime.Now;
+		post.Creator = context.Users.First();
+		context.Posts.Add(post);
+		context.SaveChanges();
+	}
+}
+
