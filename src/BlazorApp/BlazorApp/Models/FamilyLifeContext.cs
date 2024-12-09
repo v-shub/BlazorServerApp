@@ -21,7 +21,7 @@ public partial class FamilyLifeContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server=LAPTOP-1R6327H1;AttachDBFileName=C:\\Program Files\\Microsoft SQL Server\\MSSQL16.MSSQLSERVER\\MSSQL\\DATA\\FamilyLife.mdf;Database=FamilyLife;Trusted_Connection=True;TrustServerCertificate=True;");
+        => optionsBuilder.UseSqlServer("workstation id=FamilyLife.mssql.somee.com;packet size=4096;user id=v_shub_SQLLogin_1;pwd=Shubina1147;data source=FamilyLife.mssql.somee.com;persist security info=False;initial catalog=FamilyLife;TrustServerCertificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
